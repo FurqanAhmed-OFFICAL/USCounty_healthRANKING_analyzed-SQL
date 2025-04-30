@@ -28,7 +28,7 @@ Each part of the project will address different public health questions using th
 
 ## 📦 Parts
 
-- [`part_1/`](part_1/) – RDBMS setup and violent crime rate analysis
+- [`part_1(Crime rate Analysis)`](part_1/) – RDBMS setup and violent crime rate analysis
 
 Stay tuned for additional parts covering other metrics and visualizations.
 
